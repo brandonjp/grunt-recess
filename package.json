@@ -26,7 +26,7 @@
     "test": "grunt"
   },
   "dependencies": {
-    "recess": "git://git@github.com:brandonjp/recess.git",
+    "recess": "https://github.com/brandonjp/recess.git",
     "grunt-lib-contrib": "~0.6.0"
   },
   "devDependencies": {
